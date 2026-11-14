@@ -1,0 +1,6 @@
+{
+  "name": "Math Finance – Yuk Berlatih!",
+  "description": "Aplikasi web interaktif latihan soal matematika SMA materi Bunga Tunggal dan Bunga Majemuk lengkap dengan pembahasan langkah demi langkah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
